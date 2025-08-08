@@ -2,12 +2,21 @@
 
 <!-- markdownlint-disable MD033 -->
 <p align="center">
-  <img src="./public/next.svg" alt="Forwardly logo" height="64" />
+  <a href="https://forwardly.maddhruv.dev/" target="_blank" rel="noopener">
+    <img src="./public/logo.png" alt="Forwardly" height="72" />
+  </a>
 </p>
 
 <h2 align="center">Forwardly</h2>
 
 <p align="center">A modern Next.js starter focused on type safety, accessibility, and a beautiful developer experience.</p>
+
+<p align="center">
+  <a href="https://forwardly.maddhruv.dev/" target="_blank" rel="noopener"><strong>Visit the website →</strong></a>
+  <br />
+  <sub>Production URL</sub>
+  
+</p>
 
 <p align="center">
   <a href="https://nextjs.org"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" /></a>
